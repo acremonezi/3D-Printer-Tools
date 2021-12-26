@@ -12,9 +12,9 @@
 M140 S70
 M105
 M190 S70
-M104 S246
+M104 S240
 M105
-M109 S246
+M109 S240
 M82 ;absolute extrusion mode
 ; Ender 3 Custom Start G-code
 G92 E0 ; Reset Extruder
@@ -15226,7 +15226,7 @@ M104 S0
 ;SETTING_3 setting_version = 19\\n\\n[values]\\ncool_fan_enabled = False\\ncool_
 ;SETTING_3 fan_speed = 0\\ninfill_pattern = lines\\ninfill_sparse_density = 100.
 ;SETTING_3 0\\nironing_enabled = True\\nironing_only_highest_layer = True\\niron
-;SETTING_3 ing_pattern = concentric\\nmaterial_print_temperature = 246.0\\nmeshf
+;SETTING_3 ing_pattern = concentric\\nmaterial_print_temperature = 240.0\\nmeshf
 ;SETTING_3 ix_maximum_deviation = 0.02\\nmeshfix_maximum_resolution = 0.2\\nmesh
 ;SETTING_3 fix_union_all = False\\nouter_inset_first = True\\nraft_margin = 10.0
 ;SETTING_3 \\nretract_at_layer_change = True\\nretraction_amount = 6\\nretractio
